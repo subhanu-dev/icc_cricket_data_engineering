@@ -27,9 +27,22 @@ Demo and Full Project Walkthrough Video 🔗 <br>
 
 ## Architecture Diagram
 
-<img src="images/architecture.jpg" width="600px">
+<img src="images/architecture.jpg" width="850px">
 
 
+## Dashboard Reports in Power BI
+
+Realtime Report <br>
+<img src="images/img1.png" width="850px">
+
+ICC T20 Overview Report
+<img src="images/img2.png" width="850px">
+
+ICC T20 Batting Report
+<img src="images/img3.png" width="850px">
+
+Sri Lanka Cricket in ICC T20
+<img src="images/img4.png" width="850px">
 
 ---
 Built with ❤️ by [Subhanu](https://github.com/subhanu-dev)
