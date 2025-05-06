@@ -27,7 +27,7 @@ Demo and Full Project Walkthrough Video 🔗 <br>
 
 ## Architecture Diagram
 
-
+<img src="images/architecture.jpg" width="600px">
 
 
 
