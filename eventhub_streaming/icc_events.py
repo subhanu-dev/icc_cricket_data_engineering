@@ -6,7 +6,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 
 
 # Connection details
-connection_str = "Endpoint=sb://eventhub-namespace-icc.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=K18b+O0R0SBhm5tL7h77gtt9UF1vVZOCz+AEhI+E5PE="
+connection_str = ""
 eventhub_name = "streaminput"
 
 
